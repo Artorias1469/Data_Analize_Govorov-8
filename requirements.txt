@@ -1,0 +1,42 @@
+asttokens==2.4.1
+black @ file:///C:/b/abs_232028unhf/croot/black_1712698539555/work
+click @ file:///C:/b/abs_f9ihnt72pu/croot/click_1698129847492/work
+colorama==0.4.6
+comm==0.2.2
+debugpy==1.8.1
+decorator==5.1.1
+exceptiongroup==1.2.0
+executing==2.0.1
+flake8 @ file:///C:/b/abs_caud66drfv/croot/flake8_1708965316778/work
+importlib_metadata==7.1.0
+ipykernel==6.29.4
+ipython==8.18.1
+isort @ file:///tmp/build/80754af9/isort_1628603791788/work
+jedi==0.19.1
+jupyter_client==8.6.1
+jupyter_core==5.7.2
+matplotlib-inline==0.1.7
+mccabe @ file:///opt/conda/conda-bld/mccabe_1644221741721/work
+mypy-extensions @ file:///C:/b/abs_8f7xiidjya/croot/mypy_extensions_1695131051147/work
+nest-asyncio==1.6.0
+packaging==24.0
+parso==0.8.4
+pathspec @ file:///C:/b/abs_9cu5_2yb3i/croot/pathspec_1674681579249/work
+platformdirs==4.2.0
+prompt-toolkit==3.0.43
+psutil==5.9.8
+pure-eval==0.2.2
+pycodestyle @ file:///C:/b/abs_15nuk0qkf0/croot/pycodestyle_1701821084299/work
+pyflakes @ file:///C:/b/abs_b6t1aazq2e/croot/pyflakes_1708963020907/work
+Pygments==2.17.2
+python-dateutil==2.9.0.post0
+pywin32==306
+pyzmq==26.0.0
+six==1.16.0
+stack-data==0.6.3
+tomli @ file:///C:/Windows/TEMP/abs_ac109f85-a7b3-4b4d-bcfd-52622eceddf0hy332ojo/croots/recipe/tomli_1657175513137/work
+tornado==6.4
+traitlets==5.14.2
+typing_extensions==4.11.0
+wcwidth==0.2.13
+zipp==3.18.1
